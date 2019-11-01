@@ -2,6 +2,4 @@
 Memz Visual Payloads C#
 
 Requirements:
-timer
-2x picturebox
-imagelist
+timer,2x picturebox,imagelist
